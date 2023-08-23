@@ -1,7 +1,7 @@
 # Fresh Potato
 
 #### 介绍
-Fresh&Potato Mods 开发
+对同学进行改造
 
 #### 软件架构
 基于Java
@@ -12,16 +12,12 @@ Fresh&Potato Mods 开发
 2.  注意你的版本号与mod是否符合
 3.  打开Minecraft
 
-#### 使用说明
-
-1.  
-
 #### 参与贡献
 
-1.  Onism
+1.  By Onism
 
 #### 更新日志
-MineCraft Fresh&Potato Mod-1.19.2-Forge-1.1.0更新日志
+Fresh&Potato Mod-1.19.2-Forge-1.1.0更新日志
 新增：
 Yangyu世界维度
 ·增加Yangyu世界，增加玩家游戏时更多的快乐
