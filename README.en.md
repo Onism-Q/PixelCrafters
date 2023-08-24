@@ -1,36 +1,80 @@
-# Fresh Potato
+# Fresh   Potato
 
-#### Description
-Fresh&Potato Mods 开发
+#### Introduction
+Deep transformation of the students
 
 #### Software Architecture
-Software architecture description
+Java-based
 
-#### Installation
+#### installation tutorial
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Place the jar (.jar) suffix file in the mods folder inside the Minecraft folder
+2. Note whether your version number matches the mod
+3. Open Minecraft
 
-#### Instructions
+#### How to use
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Verify that your mc version is the same as the module version number
+(For specific methods to confirm the version of the module:
+1. In general, the name of the module has the version number
+2. If not, please unzip the module (.jar) (it is best to back it up), open the folder, in the first directory there is a suffix ".mcmeta ", change its suffix to ".txt ", open
+3. After opening, you will see something similar to! [Input picture description](1.2.0/AB319C5A-F17E-40FA-8C87-41F22F946520.jpeg) text, where the 9 in "pack_format: 9" is the 9 in 1.19.2
+4. Remember to restore this mod after viewing, or re-download)
 
-#### Contribution
+#### Contribute
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  By Onism
 
+#### 1.1.0 Updates logs
 
-#### Gitee Feature
+Fresh Potato Mod-1.19.2-Forge-1.1.0 update log
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+New:
+
+Yangyu world dimension
+
+· Increased the Yangyu world and increased players' happiness when playing
+
+Tudou world dimension
+
+· Increase the Tudou world dimension and increase the player's greater joy while playing
+
+Potato makes progress
+
+· When a player has a "Potato" item, they will receive an achievement named Potato
+
+Potatoblock
+
+· A PotatoBlock
+
+Optimization:
+
+· No bugs, can not be optimized
+
+Fix:
+
+· No Bug, can not be fixed
+
+#### 1.2.0 Updates logs
+
+MineCraft Fresh Potato Mod-1.19.2-Forge-1.2.0 Update log
+
+New:
+
+IronMachine
+
+· Added a one-click spawner tool to make your Minecraft world more convenient.
+
+· Formula: The top layer is three flat talc, the middle layer is two sides of the stone, the middle is red stone, the bottom layer is three stone steps
+
+Optimization:
+
+· The optimization of each map is more natural than the original
+
+Fix:
+
+· No Bug, can not be fixed
+
+Others:
+
+· There is currently a problem with the iron brush tool, which will be fixed in the next update, in order not to damage your archive, it is not necessary for the time being 😊 (in fact, there is no problem, but the structure file is not saved completely, and part of it will be cut out when generated)
