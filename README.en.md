@@ -18,7 +18,7 @@ Java-based
 (For specific methods to confirm the version of the module:
 1. In general, the name of the module has the version number
 2. If not, please unzip the module (.jar) (it is best to back it up), open the folder, in the first directory there is a suffix ".mcmeta ", change its suffix to ".txt ", open
-3. After opening, you will see something similar to! [Input picture description](1.2.0/AB319C5A-F17E-40FA-8C87-41F22F946520.jpeg) text, where the 9 in "pack_format: 9" is the 9 in 1.19.2
+3. After opening, you will see something similar to text![输入图片说明](1.2.0/67642245-E3DF-4333-A72F-CCE02E5B8476.jpeg), where the 9 in "pack_format: 9" is the 9 in 1.19.2
 4. Remember to restore this mod after viewing, or re-download)
 
 #### Contribute
